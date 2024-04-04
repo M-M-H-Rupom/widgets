@@ -1,0 +1,9 @@
+.field_column{
+    width: 50%;
+}
+.field_column label{
+    color: red;
+}
+.field_column input{
+    border: 1px solid salmon;
+}
